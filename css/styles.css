@@ -1,1 +1,116 @@
+ body, html{
+    height: 100%;
+    background-color: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
+    margin: 0;
+ }
+ 
+ /* Add a black background color to the top navigation */
+ .topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: #27282c;
+  }
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: rgba(255, 255, 255, 0.2);
+    color:  rgb(0, 0, 189);
+  }
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  } 
 
+  body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.home-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url("../img/gavilan_ukiyoe.jpeg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  object-fit: cover;
+}
+
+/* Place text in the middle of the image */
+.home-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(34, 34, 138);
+  font-size: 250%;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.subtitle{
+    text-align: center;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(34, 34, 138);
+    font-size: 180%;
+    font-family: 'Fredericka the Great', cursive;  
+}
+
+.home-paragraph{
+    text-align: left;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    bottom: 20%;
+    transform: translate(-50%, -50%);
+    color: rgb(34, 34, 138);
+    font-size: 150%;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+
+.cc-license {
+  display: inline-block;
+  text-align: left;
+  position: absolute;
+  top: 100%;
+  left: 18%;
+  bottom: 15%;
+  transform: translate(-50%, -50%);
+  color: rgb(11, 11, 41);
+  font-size: 100%;
+  font-family: 'Fredericka the Great', cursive;
+}
+.cc-icon{
+  position: absolute;
+  top: 100%;
+  right: 100%;
+  bottom: 15%;
+  transform: translate(-50%, -50%);
+  padding-left: 5%;
+}
