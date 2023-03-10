@@ -149,7 +149,7 @@ defaultContentLanguage = "es"
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a>"
+      "hello-friend-ng theme by <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -190,7 +190,6 @@ defaultContentLanguage = "es"
   #   maxWidth = "50px"
 
   # Social icons
-  # Doesn't works because social-icons.html has not : <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   [[params.social]]
     name = "twitter"
     icon = "fa fa-twitter"
