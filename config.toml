@@ -50,8 +50,8 @@ defaultContentLanguage = "es"
   series   = "series"
 
 [params]
-  title   = "El Rincón de Tiago"
-  name = "El Rincón de Tiago"
+  title   = "El Blog de Tiago"
+  name = "El Blog de Tiago"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -64,7 +64,7 @@ defaultContentLanguage = "es"
   images = [""]
 
   # Home page title
-  homeTitle = "El Rincón de Tiago"
+  homeTitle = "El Blog de Tiago"
 
   # Home subtitle of the index page.
   #
@@ -212,23 +212,23 @@ defaultContentLanguage = "es"
 
 [languages]
   [languages.es]
-    title = "El rincón de Tiago"
+    title = "El Blog de Tiago"
     subtitle  = "Blog"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en]
-    homeTitle = "Tiago's Corner"
+    homeTitle = "Tiago's Blog"
     homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
-    title = "Tiago's Corner"
-    name = "Tiago's Corner"    
+    title = "Tiago's Blog"
+    name = "Tiago's Blog"    
     subtitle  = "Blog"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'    
 
     [languages.en.params.logo]
       logoMark     = ""
-      logoText     = "Tiago's Corner"
+      logoText     = "Tiago's Blog"
       logoHomeLink = ""    
     
     [languages.en.menu]
