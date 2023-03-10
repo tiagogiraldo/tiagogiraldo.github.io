@@ -39,7 +39,7 @@ defaultContentLanguage = "es"
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Santiago Giraldo"
+  name = "tiagogiraldo"
 
 [blackfriday]
   hrefTargetBlank = true
