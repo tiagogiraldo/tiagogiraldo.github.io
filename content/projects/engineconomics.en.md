@@ -7,7 +7,8 @@ draft: false
  ![alt text](/images/engineconomics/img_1.png)
 
  
- Developer of the [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics) library for python. This library is designed to solve the main problems that arise in the area of Engineering Economics. It focuses on financial mathematics that occur over discrete time periods. The cash flows that are analyzed with this library are restricted to uniform times or fractions, without taking into account cash flows associated to dates, if you have something like that you must convert the periods to integers or fractions of time to be evaluated with the functions developed here.
+ [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics) is a library developed in Python. It was designed to solve the main problems 
+ that arise in the area of Engineering Economics. It focuses on financial mathematics that occur over discrete time periods. The cash flows that are analyzed with this library are restricted to uniform times or fractions, without taking into account cash flows associated to dates, if you have something like that you must convert the periods to integers or fractions of time to be evaluated with the functions developed here.
 
 With this tool it is possible to plot cash flows commonly encountered in Engineering Economics, Finance, Banking, Project Assessment, and Economics related to the Time Value of Money.
 

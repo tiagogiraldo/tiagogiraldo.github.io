@@ -7,7 +7,7 @@ draft: false
 
  ![alt text](/images/engineconomics/img_1.png)
 
-Desarrollador de la libreria para Python [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics). Diseñada para resolver los principales problemas que se plantean en el área de la Ingeniería Económica. Se centra en las matemáticas financieras que ocurren en periodos de tiempo discretos. 
+[**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics) es una libreria desarrolada en Python. Fue Diseñada para resolver los principales problemas que se plantean en el área de la Ingeniería Económica. Se centra en las matemáticas financieras que ocurren en periodos de tiempo discretos. 
 
 Los flujos de caja que se analizan con esta librería están restringidos a tiempos uniformes o fracciones, sin tener en cuenta flujos de caja asociados a fechas, si se tiene algo así se deben convertir los periodos a enteros o fracciones de tiempo para ser evaluados con las funciones aquí desarrolladas.
 
