@@ -6,4 +6,8 @@ draft: false
 
 A fan of new technologies, especially artificial intelligence and machine learning.
 
-I have developed a [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics) library in python, with economic engineering tools to solve Economic Engineering, Finance and Project Evaluation problems.
+## Projects
+
+- [**Fish recognition API**](https://github.com/tiagogiraldo/sea_fish_recognition): Sea fish classifier.  Model developed with a RESNET 34 architecture with FastaAI2, Pytorch and Streamlite.  The accuracy of the model in training was 7%.  For the training of the model 44,134 images were used, which were scraped from the Internet.
+
+- [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics): Library developed in Python to solve typical problems in Engineering Economics, Finance, and Project Evaluation.

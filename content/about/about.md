@@ -6,4 +6,9 @@ draft: false
 
 Apasionado por las nuevas tecnologías, en especial aquellas relacionadas con la Inteligencia Artifical y Aprendizaje de Máquina.
 
-Desarrollador de la libreria para Python [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics), especializada en herramientas utilizadas en Ingeniería Económica, Finanzas,y Evaluación de Proyectos.
+
+## Proyectos:
+
+- [**Fish recognition API**](https://github.com/tiagogiraldo/sea_fish_recognition): Clasificador de peces de mar.  Modelo desarrollado con una arqutectura RESNET 34 con FastaAI2, Pytorch y Streamlite.  La precisión del modelo en entrenamiento es del 7%.  Para el entrenamiento del modelo se utilizaron 44134 imagenes que fueron scrapeadas de internet.
+
+- [**EngineEconomics**](https://github.com/tiagogiraldo/engineconomics): Librería desarrollada en Python para resolver problemas típicos de la Ingeniería Económica, Finanzas,y Evaluación de Proyectos.
