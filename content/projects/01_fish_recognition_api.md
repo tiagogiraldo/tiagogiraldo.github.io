@@ -1,6 +1,8 @@
 ---
 title: "Api para el reconocimiento de peces de mar."
 date: 2020-08-30T10:00:00-00:00
+tags: ['FastAI','Python', 'PyTorch', 'Streamlit', 'Visión Por Computador', 'Reconocimiento de Objetos', 'Redes Neuronales']
+categories: ['Proyectos', 'Vision Por Computador']
 draft: false
 ---
 

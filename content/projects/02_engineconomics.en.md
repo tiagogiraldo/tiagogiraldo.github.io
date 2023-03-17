@@ -1,6 +1,8 @@
 ---
 title: "Engineconomics"
 date: 2023-03-12T00:00:00-00:00
+tags: ['Python', 'Finance']
+categories: ['Projects', 'Finance']
 draft: false
 ---
 

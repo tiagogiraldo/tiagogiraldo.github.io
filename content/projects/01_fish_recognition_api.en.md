@@ -1,6 +1,8 @@
 ---
 title: "Sea Fish Recognition API"
 date: 2020-08-30T10:00:00-00:00
+tags: ['FastAI','Python', 'PyTorch', 'Streamlit', 'Computer Vision', 'Object Recognition', 'Neural Networks']
+categories: ['Projects', 'Computer Visison']
 draft: false
 ---
 
