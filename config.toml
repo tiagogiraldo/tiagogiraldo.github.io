@@ -193,7 +193,7 @@ defaultContentLanguage = "es"
   [[params.social]]
     name = "twitter"
     icon = "fa fa-twitter"
-    url  = "https://twitter.com/un_X_mas"
+    url  = ""
 
 
   [[params.social]]
