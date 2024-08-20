@@ -1,6 +1,6 @@
 ---
 title: "Engineconomics"
-date: 2023-03-12T00:00:00-00:00
+date: 2024-02-12T00:00:00-00:00
 tags: ['HTML5', 'CSS', 'JavaScript']
 categories: ['Desarrollo web']
 draft: false
