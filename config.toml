@@ -200,19 +200,16 @@ defaultContentLanguage = "es"
     icon = "fa fa-envelope"
     url  = "mailto:sgmlmail@protonmail.com
 
-
+languageCode = 'es'
 [languages]
-  [languages.es.params]
-    [languages.es]
-      languageCode = 'es'
+  [languages.es]
+    [languages.es.params]
       title = "El Blog de Tiago"
       subtitle  = "Blog"
       weight    = 1
       copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  
-  [languages.en.params]
-    [languages.en]
+  [languages.en]
       languageCode = 'en-us'
       homeTitle = "Tiago's Blog"
       homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
