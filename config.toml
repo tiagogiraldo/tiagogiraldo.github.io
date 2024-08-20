@@ -204,6 +204,7 @@ languageCode = 'es'
 
 [languages]
   [languages.es]
+    languageCode = 'es'
     [languages.es.params]
       title = "El Blog de Tiago"
       subtitle  = "Blog"
@@ -211,8 +212,8 @@ languageCode = 'es'
       copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en]
+    languageCode = 'en-us'
     [languages.en.params]
-      languageCode = 'en-us'
       homeTitle = "Tiago's Blog"
       homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
       title = "Tiago's Blog"
