@@ -31,23 +31,17 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-IsMultiLangual = true
+hugo.IsMultilingual = true
 defaultContentLanguage = "es"
- 
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "tiagogiraldo"
-
-[blackfriday]
-  hrefTargetBlank = true
 
 [taxonomies]
   tag      = "tags"
   category = "categories"
   series   = "series"
+  author   = "tiagogiraldo"
 
 [params]
   title   = "El Blog de Tiago"
@@ -204,75 +198,49 @@ defaultContentLanguage = "es"
   [[params.social]]
     name = "email"
     icon = "fa fa-envelope"
-    url  = "mailto:sgmlmail@protonmail.com"
-  
-  
-    
-
+    url  = "mailto:sgmlmail@protonmail.com
 
 [languages]
   [languages.es]
-    title = "El Blog de Tiago"
-    subtitle  = "Blog"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [languages.es.params]
+      title = "El Blog de Tiago"
+      subtitle  = "Blog"
+      weight    = 1
+      copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en]
-    homeTitle = "Tiago's Blog"
-    homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
-    title = "Tiago's Blog"
-    name = "Tiago's Blog"    
-    subtitle  = "Blog"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'    
+    [languages.en.params]
+      homeTitle = "Tiago's Blog"
+      homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
+      title = "Tiago's Blog"
+      name = "Tiago's Blog"    
+      subtitle  = "Blog"
+      weight    = 2
+      copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'    
 
-    [languages.en.params.logo]
-      logoMark     = ""
-      logoText     = "Tiago's Blog"
-      logoHomeLink = ""    
+      [languages.en.params.logo]
+        logoMark     = ""
+        logoText     = "Tiago's Blog"
+        logoHomeLink = ""    
     
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        name       = "Posts"
-        url        = "/posts"
-        weight    = 1
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name       = "Projects"
-        url        = "/projects"
-        weight    = 2
-      [[languages.en.menu.main]]
-        identifier = "snippets"
-        name       = "Snippets"
-        url        = "/snipets"
-        weight     = 3               
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name       = "About"
-        url        = "/about"
-        weight     = 4    
-
-
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "/posts"
-    weight     = 1
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Proyectos"
-    url        = "/projects"
-    weight     = 2
-  [[menu.main]]
-    identifier = "snippets"
-    name       = "Snippets"
-    url        = "/snipets"
-    weight     = 3            
-  [[menu.main]]
-    identifier = "about"
-    name       = "Acerca"
-    url        = "/about"
-    weight     = 4    
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "posts"
+          name       = "Posts"
+          url        = "/posts"
+          weight    = 1
+        [[languages.en.menu.main]]
+          identifier = "projects"
+          name       = "Projects"
+          url        = "/projects"
+          weight    = 2
+        [[languages.en.menu.main]]
+          identifier = "snippets"
+          name       = "Snippets"
+          url        = "/snipets"
+          weight     = 3               
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name       = "About"
+          url        = "/about"
+          weight     = 4    
