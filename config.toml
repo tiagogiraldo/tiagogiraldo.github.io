@@ -203,7 +203,6 @@ defaultContentLanguage = "es"
 languageCode = 'es'
 [languages]
   [languages.es]
-    [languages.es.params]
       title = "El Blog de Tiago"
       subtitle  = "Blog"
       weight    = 1
