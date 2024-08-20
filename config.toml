@@ -41,16 +41,22 @@ defaultContentLanguage = "es"
   tag      = "tags"
   category = "categories"
   series   = "series"
-  author   = "tiagogiraldo"
+
 
 [params]
   title   = "El Blog de Tiago"
   name = "El Blog de Tiago"
+  author   = "tiagogiraldo"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+
   
+[config]
+  [config.services]
+    [config.services.googleAnalytics]
+      id = ""  
   # Metadata mostly used in document's head
   # 
   description = "Blog sobre IA, Machine Learning, Ciencia de Datos y Otras Cosas"
@@ -200,25 +206,24 @@ defaultContentLanguage = "es"
     icon = "fa fa-envelope"
     url  = "mailto:sgmlmail@protonmail.com
 
-languageCode = 'es'
 [languages]
   [languages.es]
+    [languages.es.params]
       title = "El Blog de Tiago"
       subtitle  = "Blog"
       weight    = 1
       copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en]
-      languageCode = 'en-us'
-      homeTitle = "Tiago's Blog"
-      homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
+    [languages.en.params]
       title = "Tiago's Blog"
-      name = "Tiago's Blog"    
       subtitle  = "Blog"
+      hometitle = "Tiago's Blog"
+      homesubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
       weight    = 2
       copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'    
 
-
+      [languages.en.params.logo]
         logoMark     = ""
         logoText     = "Tiago's Blog"
         logoHomeLink = ""    

@@ -19,9 +19,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo-extended@v2
         with:
-          hugo-version: 'extended'
+          hugo-version: 'latest'          
 
       - name: Build site with Hugo
         run: hugo --minify
