@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on El Blog de Tiago</title>
+    <link>https://tiagogiraldo.github.io/categories/</link>
+    <description>Recent content in Categories on El Blog de Tiago</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tiagogiraldo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desarrollo Web</title>
+      <link>https://tiagogiraldo.github.io/categories/desarrollo-web/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/categories/desarrollo-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finanzas</title>
+      <link>https://tiagogiraldo.github.io/categories/finanzas/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/categories/finanzas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proyectos</title>
+      <link>https://tiagogiraldo.github.io/categories/proyectos/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/categories/proyectos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vision Por Computador</title>
+      <link>https://tiagogiraldo.github.io/categories/vision-por-computador/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/categories/vision-por-computador/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

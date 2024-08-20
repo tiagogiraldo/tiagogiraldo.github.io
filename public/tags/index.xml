@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on El Blog de Tiago</title>
+    <link>https://tiagogiraldo.github.io/tags/</link>
+    <description>Recent content in Tags on El Blog de Tiago</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tiagogiraldo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS</title>
+      <link>https://tiagogiraldo.github.io/tags/css/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML5</title>
+      <link>https://tiagogiraldo.github.io/tags/html5/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/html5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://tiagogiraldo.github.io/tags/javascript/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finanzas</title>
+      <link>https://tiagogiraldo.github.io/tags/finanzas/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/finanzas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://tiagogiraldo.github.io/tags/python/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FastAI</title>
+      <link>https://tiagogiraldo.github.io/tags/fastai/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/fastai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyTorch</title>
+      <link>https://tiagogiraldo.github.io/tags/pytorch/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reconocimiento De Objetos</title>
+      <link>https://tiagogiraldo.github.io/tags/reconocimiento-de-objetos/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/reconocimiento-de-objetos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redes Neuronales</title>
+      <link>https://tiagogiraldo.github.io/tags/redes-neuronales/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/redes-neuronales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>https://tiagogiraldo.github.io/tags/streamlit/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/tags/streamlit/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

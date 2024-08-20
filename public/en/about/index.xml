@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Tiago&#39;s Blog</title>
+    <link>https://tiagogiraldo.github.io/en/about/</link>
+    <description>Recent content in Abouts on Tiago&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 10 Mar 2023 17:02:08 -0500</lastBuildDate>
+    <atom:link href="https://tiagogiraldo.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tiagogiraldo.github.io/en/about/about/</link>
+      <pubDate>Fri, 10 Mar 2023 17:02:08 -0500</pubDate>
+      <guid>https://tiagogiraldo.github.io/en/about/about/</guid>
+      <description>A fan of new technologies, especially artificial intelligence and machine learning.&#xA;Projects Fish recognition API: Sea fish classifier. Model developed with a RESNET 34 architecture with FastaAI2, Pytorch and Streamlite. The accuracy of the model in training was 7%. For the training of the model 44,134 images were used, which were scraped from the Internet.&#xA;EngineEconomics: Library developed in Python to solve typical problems in Engineering Economics, Finance, and Project Evaluation.</description>
+    </item>
+  </channel>
+</rss>

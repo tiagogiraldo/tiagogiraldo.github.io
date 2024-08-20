@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tiago&#39;s Blog</title>
+    <link>https://tiagogiraldo.github.io/en/categories/</link>
+    <description>Recent content in Categories on Tiago&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tiagogiraldo.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finance</title>
+      <link>https://tiagogiraldo.github.io/en/categories/finance/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/en/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://tiagogiraldo.github.io/en/categories/projects/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/en/categories/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Visison</title>
+      <link>https://tiagogiraldo.github.io/en/categories/computer-visison/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/en/categories/computer-visison/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision Por Computador on El Blog de Tiago</title>
+    <link>https://tiagogiraldo.github.io/categories/vision-por-computador/</link>
+    <description>Recent content in Vision Por Computador on El Blog de Tiago</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 30 Aug 2020 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tiagogiraldo.github.io/categories/vision-por-computador/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Api para el reconocimiento de peces de mar.</title>
+      <link>https://tiagogiraldo.github.io/projects/01_fish_recognition_api/</link>
+      <pubDate>Sun, 30 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/projects/01_fish_recognition_api/</guid>
+      <description>Api para el reconocimiento de peces de mar: Clasificador de peces de mar. Modelo desarrollado con una arqutectura RESNET 34 con FastaAI2, Pytorch y Streamlite. La precisión del modelo en entrenamiento es del 7%. Para el entrenamiento del modelo se utilizaron 44,134 imagenes que fueron scrapeadas de internet.</description>
+    </item>
+  </channel>
+</rss>

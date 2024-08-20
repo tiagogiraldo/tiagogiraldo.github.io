@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo Web on El Blog de Tiago</title>
+    <link>https://tiagogiraldo.github.io/categories/desarrollo-web/</link>
+    <description>Recent content in Desarrollo Web on El Blog de Tiago</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tiagogiraldo.github.io/categories/desarrollo-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engineconomics</title>
+      <link>https://tiagogiraldo.github.io/projects/03_soy_henry_m1/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/projects/03_soy_henry_m1/</guid>
+      <description>&#xA;SoyHenry - Proyecto Módulo 1 - Página Personal&#xA;Página web personal con HTML y CSS, y en la que se exploran las posibilidades del contenido dinámico con la manipulación del DOM usando DOM API. Y usando el Framework Jasmine para probar y mejorar mi código.&#xA;Objetivos del proyecto:&#xA;Diseño de páginas web con HTML y CSS. Manipulación del DOM mediante DOM API. Pruebas utilizando el Framework Jasmine </description>
+    </item>
+    <item>
+      <title>Engineconomics</title>
+      <link>https://tiagogiraldo.github.io/projects/03_soy_henry_m1_en/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tiagogiraldo.github.io/projects/03_soy_henry_m1_en/</guid>
+      <description>&#xA;SoyHenry - Module Project M1 - Personal Page&#xA;Building a personal web pages with HTML and CSS, and exploring the possibilities of dynamic content with DOM manipulation using DOM API. Using the Jasmine Framework to test and improve my code.&#xA;Project goals:&#xA;Web Page Design with HTML and CSS. DOM manipulation through DOM API Testing using the Jasmine Framework </description>
+    </item>
+  </channel>
+</rss>
