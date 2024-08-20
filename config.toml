@@ -47,7 +47,14 @@ defaultContentLanguage = "es"
   tag      = "tags"
   category = "categories"
   series   = "series"
-  author = "tiagogiraldo"
+  author = "authors"
+
+[authors]
+  [authors.tiagogiraldo]
+    name = "tiagogiraldo"
+    bio = "ML entusiast."
+
+
 
 [params]
   title   = "El Blog de Tiago"
@@ -207,7 +214,10 @@ defaultContentLanguage = "es"
     url  = "mailto:sgmlmail@protonmail.com"
   
   
-    
+  [services]
+  [services.googleAnalytics]
+    id = "UA-XXXXXXXXX-X"
+  
 
 
 [languages]
@@ -226,7 +236,7 @@ defaultContentLanguage = "es"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'    
 
-    [languages.en.params.logo]
+    #[languages.en.params.logo]
       logoMark     = ""
       logoText     = "Tiago's Blog"
       logoHomeLink = ""    
