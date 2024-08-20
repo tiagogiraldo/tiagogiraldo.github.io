@@ -200,10 +200,11 @@ defaultContentLanguage = "es"
     icon = "fa fa-envelope"
     url  = "mailto:sgmlmail@protonmail.com
 
-languageCode = 'sp'
+
 [languages]
   [languages.es]
     [languages.es.params]
+      languageCode = 'es'
       title = "El Blog de Tiago"
       subtitle  = "Blog"
       weight    = 1
