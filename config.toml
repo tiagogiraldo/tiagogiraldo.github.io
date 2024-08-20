@@ -200,6 +200,7 @@ defaultContentLanguage = "es"
     icon = "fa fa-envelope"
     url  = "mailto:sgmlmail@protonmail.com
 
+languageCode = 'sp'
 [languages]
   [languages.es]
     [languages.es.params]
@@ -210,6 +211,7 @@ defaultContentLanguage = "es"
 
   [languages.en]
     [languages.en.params]
+      languageCode = 'en-us'
       homeTitle = "Tiago's Blog"
       homeSubtitle = "Blog about AI, Machine Learning, Data Sience and Other Stuffs (in bad English 😁)"
       title = "Tiago's Blog"
